@@ -9,5 +9,5 @@
 
 -   Check the status:
 	
-	git status
+	git status a
  
